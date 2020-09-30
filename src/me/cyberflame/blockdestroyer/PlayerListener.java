@@ -1,4 +1,4 @@
-package me.cyberflame.blockdestroyer;
+package me.cyberfla.blockdestroyer;
 
 import java.util.UUID;
 
