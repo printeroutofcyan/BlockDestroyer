@@ -1,4 +1,4 @@
-package me.cyberflame.blockdestroyer.command;
+package me.cyberfla.blockdestroyer.command;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -8,8 +8,8 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import me.cyberflame.blockdestroyer.BlockDestroyer;
-import me.cyberflame.blockdestroyer.Utils;
+import me.cyberfla.blockdestroyer.BlockDestroyer;
+import me.cyberfla.blockdestroyer.Utils;
 import net.md_5.bungee.api.ChatColor;
 
 public class BuildModeCommand extends Command {
